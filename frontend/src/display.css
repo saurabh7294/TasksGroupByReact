@@ -1,0 +1,115 @@
+.displaymain {
+  padding: 1.8rem;
+}
+
+.groupmain {
+  font-weight: bold;
+  background-color: rgb(63, 62, 62);
+  color: white;
+  border-radius: 3%;
+  margin-bottom: 10px;
+}
+
+.commonnav > h6 {
+  display: inline-block;
+  padding-left: 0.8rem;
+  font-size: small;
+}
+.commonnav > h4 {
+  display: inline-block;
+  margin-left: 0.8rem;
+}
+.commonnav > FontAwesomeIcon {
+  display: inline-block;
+  /* padding-left: 1.5rem; */
+}
+
+.metroicon {
+  margin-left: 1rem;
+}
+
+.tabledata {
+  color: whitesmoke;
+}
+
+.tablemain {
+  margin-top: 5px;
+  background-color: rgb(88, 88, 88);
+  margin-bottom: 10px;
+  margin-left: 2px;
+  margin-right: 2px;
+  border-left: 7px solid white;
+  filter: drop-shadow(3px 3px 4px #dcdcdd);
+}
+.tablemain:hover{
+    filter: brightness(1.2);
+}
+.tablecontent {
+  padding-top: 0.3rem;
+  border: 3px solid black;
+  border-radius: 3%;
+  background-color: rgb(196, 196, 196);
+  color: whitesmoke;
+  margin-right: 8px;
+  width: 32.5%;
+  /* margin-left: auto;
+    margin-right: auto; */
+  margin-bottom: 1.2rem;
+}
+.tablestart {
+  border-bottom: 2px regular white;
+}
+.tasknos {
+  margin-left: 2rem;
+  font-size: small;
+}
+
+/* List View */
+
+.commonnavlist > h6 {
+  display: inline-block;
+  padding-left: 0.8rem;
+}
+.commonnavlist > h4 {
+  display: inline-block;
+  margin-left: 0.8rem;
+}
+.commonnavlist > FontAwesomeIcon {
+  display: inline-block;
+  /* padding-left: 1.5rem; */
+}
+.commonnavlist > div > h4 {
+  display: inline-block;
+  margin-left: 0.8rem;
+}
+.commonnavlist > div > FontAwesomeIcon {
+  display: inline-block;
+}
+.commonnavlist > div {
+  display: inline-block;
+}
+
+.listviewtable {
+  margin-top: 3rem;
+}
+.title {
+  display: inline-block;
+  background-color: rgb(66, 66, 66);
+  color: white;
+  padding-right: 20px;
+  border-top-left-radius: 10%;
+  border-top-right-radius: 10%;
+  height: 90%;
+}
+.nthchilds {
+  border: 2px solid black;
+}
+
+.nthchild:nth-child(odd) {
+  background-color: rgb(107, 105, 105);
+  color: white;
+}
+.taskno {
+  margin-left: 1rem;
+  font-size: medium;
+}

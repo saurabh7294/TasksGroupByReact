@@ -1,0 +1,85 @@
+.commonnav > p {
+  display: inline-block;
+  margin-left: 0.5rem;
+}
+.commonnav > h5 {
+  display: inline-block;
+  margin-left: 0.8rem;
+}
+.commonnav > FontAwesomeIcon {
+  display: inline-block;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+.commondiv > div {
+  display: inline-block;
+  margin-right: 0.4rem;
+  margin-left: 1rem;
+}
+
+.navbar-main {
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  background: rgb(56, 56, 56);
+  color: white;
+  height: 2.5rem;
+}
+.automate-section {
+  float: right;
+}
+.msgheadermain {
+  background-color: rgb(88, 88, 88);
+  height: 2rem;
+}
+.msgheader {
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 2px;
+  color: white;
+}
+.msgheader > p {
+  display: inline-block;
+  margin-left: 0.7rem;
+}
+.msgheader > fontAwesomeIcon {
+  display: inline-block;
+}
+
+.searchheadermain {
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: rgb(61, 61, 61);
+  color: white;
+}
+.searchheader {
+  border-radius: 20%;
+}
+.searchheader > input {
+  margin-left: 10px;
+  background-color: rgb(204, 203, 203);
+  height: 1.7rem;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.select-class {
+  margin-left: 10px;
+  background-color: rgb(204, 203, 203);
+  height: 1.7rem;
+  border-radius: 5px 5px 5px 5px;
+}
+
+
+.viewborder{
+    border-bottom: 4px solid white;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius: 2%;
+}
+.boardicon{
+    margin-right: 10px;
+}

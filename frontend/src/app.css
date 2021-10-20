@@ -1,0 +1,7 @@
+.roots{
+    background-color: rgb(211, 210, 210);
+}
+.sticky-nav {
+    position: sticky;
+    top: 0;
+  }
